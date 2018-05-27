@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NMessenger"
-  s.version      = "1.0.80"
+  s.version      = "1.0.82"
   s.summary      = "A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift"
 
   # This description is used to generate tags and improve search results.
@@ -55,7 +55,7 @@ NMessenger is a fast, lightweight messenger component built on AsyncDisplaykit a
 
   # s.author             = { "eBay" => "email@address.com" }
   # Or just: s.author    = "eBay"
-  s.authors            = { "Schechter, David" => "david.schechter.mail@gmail.com", "Tainter, Aaron" => "amtainter@gmail.com" }
+  s.authors            = { "Schechter, David" => "david.schechter.mail@gmail.com", "Tainter, Aaron" => "amtainter@gmail.com", "Ahmad, Suhayb" => "suhayb@imagine.com.jo" }
   # s.social_media_url   = "http://twitter.com/eBay"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -65,7 +65,7 @@ NMessenger is a fast, lightweight messenger component built on AsyncDisplaykit a
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "8.2"
+  s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -80,7 +80,7 @@ NMessenger is a fast, lightweight messenger component built on AsyncDisplaykit a
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/eBay/NMessenger.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/suhaybimagine/NMessenger.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
